@@ -123,6 +123,10 @@
   justify-content: center;
   gap: 20px;
 }
+.greeting {
+  text-align: center;
+
+}
 .imagen-dos { 
   width: 200px;
   height: auto;
@@ -142,4 +146,5 @@
   align-content: center;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
 }
